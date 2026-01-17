@@ -47,8 +47,7 @@ Interactive dashboards are built to support business decision-making.
 
 ## 📂 Files Included
 
-* `new.twbx` – Tableau packaged workbook
-* Dataset (if available)
+* `Sales Performance Analysis using Tableau.twbx` – Tableau packaged workbook
 * Dashboard screenshots
 
 ---
