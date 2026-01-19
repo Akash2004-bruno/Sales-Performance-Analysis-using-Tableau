@@ -51,7 +51,7 @@ Interactive dashboards are built to support business decision-making.
 * Dashboard screenshots
 ## 📸 Dashboard Preview
 
-![Sales Performance Analysis using Tableau](Dashboard .png)
+![Sales Performance Analysis using Tableau]('Dashboard .png')
 
 ---
 
